@@ -9,3 +9,5 @@ Task 1 : Create a program that generates a random number and asks the user to gu
 Task 2 : Develop a calculator program that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. Allow the user to input two numbers and choose an operation to perform.
 
 Task 3 : Build a simple console-based Tic-Tac-Toe game that allows two players to play against each other.
+
+Task 4 : Build a simple console-based to-do list manager that allows users to add, view, and delete tasks
